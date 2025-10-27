@@ -1,0 +1,13 @@
+I.Quy trình mua hàng online
+ -Mô tả ngắn
+  +Người dùng truy cập website/app rồi tìm kiếm sản phẩm -> thêm vào giỏ hàng -> thanh toán -> chọn phương thức giao hàng -> nhận thông báo xác nhận -> theo dõi đơn 
+hàng đến khi giao thành công
+ - 4 yêu cầu chức năng
+  +Tìm kiếm sản phẩm
+  +Thêm/xóa sản phẩm khỏi giỏ hàng và tiến hành thanh toán
+  +Theo dõi đơn hàng
+  +Quản lý tài khoản người dùng
+ -3 yêu cầu phi chức năng
+  +Hiệu năng
+  +Bảo mật
+  +Tính sẵn sàng
