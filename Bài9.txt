@@ -1,0 +1,56 @@
+I. Giới thiệu
+ *Mục đích 
+  -Mô tả mục tiêu của tài liệu — dùng để xác định rõ các yêu cầu của hệ thống đặt món ăn cho khách hàng, nhân viên phục vụ và quản lý quán.
+ *Phạm vi hệ thống
+  -Trình bày tổng quan hệ thống: khách hàng đặt món qua app hoặc web tại quán, nhân viên nhận đơn, bếp chế biến, quản lý theo dõi tình trạng và doanh thu.
+ *Định nghĩa, từ viết tắt
+  -Liệt kê các thuật ngữ: Order ID, QR Code, Admin,...
+ *Tài liệu tham khảo 
+  -Danh sách tài liệu, tiêu chuẩn, hoặc nguồn tham khảo (IEEE SRS Template, tài liệu quy trình nhà hàng).
+II. Mô tả tổng quan
+ *Góc nhìn sản phẩm 
+  -Trình bày mối quan hệ giữa hệ thống đặt món và các hệ thống khác (thanh toán, quản lý kho, báo cáo doanh thu).
+ *Chức năng chính 
+  -Tóm tắt các chức năng tổng thể:
+   +Khách đặt món online/offline
+   +Nhân viên nhận và xác nhận đơn
+   +Bếp chuẩn bị món
+   +Hệ thống thông báo trạng thái đơn hàng
+   +Quản lý menu và doanh thu
+ *Đặc điểm người dùng
+  -Mô tả các nhóm người dùng: khách hàng, nhân viên phục vụ, bếp, quản lý — và trình độ kỹ thuật của họ.
+ *Ràng buộc 
+  -Nêu giới hạn kỹ thuật hoặc nghiệp vụ, ví dụ: chỉ hoạt động nội bộ trong mạng quán, thanh toán qua mã QR nội bộ.
+ *Giả định và phụ thuộc
+  -Ví dụ: yêu cầu Internet ổn định, hệ thống POS tích hợp sẵn.
+III. Yêu cầu hệ thống 
+ *Yêu cầu chức năng 
+  -Liệt kê chi tiết các chức năng chính:
+   +Đăng nhập/Đăng ký người dùng
+   +Xem menu món ăn
+   +Đặt món và thanh toán
+   +Quản lý đơn hàng
+   +Báo cáo doanh thu
+ *Yêu cầu phi chức năng
+  -Bao gồm:
+   +Hiệu năng: phản hồi dưới 2 giây khi thêm món
+   +Bảo mật: mã hóa dữ liệu khách hàng
+   +Khả dụng: hơn 99%
+   +Khả năng mở rộng: thêm chi nhánh mới mà không ảnh hưởng hệ thống hiện có
+ *Yêu cầu giao diện
+  -Mô tả giao diện người dùng, giao diện thiết bị (màn hình bếp), và API kết nối.
+ *Yêu cầu phần cứng và phần mềm 
+  -Phần cứng: máy tính quầy, máy in hóa đơn, thiết bị bếp.
+  -Phần mềm: hệ điều hành, trình duyệt, framework hỗ trợ.
+IV. Mô hình và sơ đồ 
+ *Use Case Diagram
+  -Biểu đồ ca sử dụng mô tả tương tác giữa các tác nhân.
+ *Activity Diagram
+  -Mô tả luồng quy trình đặt món – xác nhận – chế biến – giao món – thanh toán.
+ *ERD hoặc Class Diagram
+  -Mô tả cấu trúc dữ liệu: bảng Orders, MenuItems, Users, Payments,...
+V. Phụ lục 
+ *Thuật ngữ bổ sung
+ -Các định nghĩa, mô tả chi tiết bổ sung cho người đọc.
+ *Tài liệu hỗ trợ kỹ thuật
+  -Bao gồm hướng dẫn cài đặt, môi trường phát triển, hoặc bản thiết kế mockup.
