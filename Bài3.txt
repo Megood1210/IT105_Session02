@@ -1,0 +1,28 @@
+| Yếu tố môi trường  | Mô tả chi tiết                                                                        |
+|--------------------| --------------------------------------------------------------------------------------|
+| Người dùng         | - Người mua hàng: tìm kiếm, đặt hàng, thanh toán, đánh giá sản phẩm                   |
+|                    | - Người bán hàng: đăng sản phẩm, quản lý đơn, xử lý thanh toán, chăm sóc khách hàng   |
+|                    | - Nhân viên Shopee: kiểm duyệt sản phẩm, hỗ trợ người dùng, vận hành hệ thống         |
+|--------------------|---------------------------------------------------------------------------------------|
+| Phần cứng          | - Thiết bị di động (smartphone, tablet) của người dùng                                |
+|                    | - Máy chủ (server, storage) của Shopee đặt tại trung tâm dữ liệu hoặc cloud           |                                                                                                                                                                                                                                                             
+|                    | - Thiết bị mạng (router, load balancer) hỗ trợ truyền tải dữ liệu và bảo mật          |                                                                     
+|--------------------|---------------------------------------------------------------------------------------| 
+| Phần mềm           | - Ứng dụng Shopee trên Android / iOS                                                  |
+|                    | - Hệ thống backend quản lý dữ liệu, thanh toán, chat, vận chuyển                      | 
+|                    | - Hệ thống website Shopee.vn                                                          |    
+|                    | - Hệ thống AI / Recommendation đề xuất sản phẩm                                       |                                                                                                                                                                                                                                                                                                           
+|--------------------|---------------------------------------------------------------------------------------| 
+| Hệ thống bên ngoài | - Cổng thanh toán: MoMo, ZaloPay, VNPay, thẻ Visa/MasterCard                          | 
+|                    | - Hệ thống vận chuyển: Giao Hàng Nhanh, J&T, Viettel Post...                          | 
+|                    | - Hệ thống xác thực người dùng: OTP qua SMS hoặc Email                                |
+|                    | - Mạng xã hội: Facebook, Google (đăng nhập liên kết)                                  |
+|--------------------|---------------------------------------------------------------------------------------| 
+| Quy trình nghiệp vụ| - Người bán đăng sản phẩm -> Người mua đặt hàng -> Thanh toán -> Giao hàng -> Đánh giá|
+|                    | - Quy trình hoàn tiền, khiếu nại, hỗ trợ khách hàng                                   |
+|                    | - Quy trình khuyến mãi, flash sale, voucher                                           |
+|--------------------|---------------------------------------------------------------------------------------| 
+| Luật lệ và quy định| - Luật Thương mại điện tử Việt Nam                                                    |
+|                    | - Chính sách bảo mật thông tin cá nhân                                                |
+|                    | - Chính sách hoàn tiền, đổi trả, thuế và hóa đơn điện tử                              |
+|                    | - Điều khoản sử dụng và quy định người bán của Shopee                                 |
