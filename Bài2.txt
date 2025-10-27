@@ -1,0 +1,9 @@
+I.App ngân hàng
+ - 3 yêu cầu chức năng
+  +Đăng nhập và xác thực người dùng
+  +Chuyển khoản nội bộ và liên ngân hàng
+  +Tra cứu lịch sử giao dịch
+ -3 yêu cầu phi chức năng
+  +Bảo mật
+  +Hiệu năng
+  +Tính sẵn sàng
