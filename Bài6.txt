@@ -1,0 +1,11 @@
+| Yếu tố môi trường  | Tác động đến yêu cầu kỹ thuật của hệ thống                                                                                                      |
+|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| Người dùng         | Hệ thống phải có giao diện riêng cho từng vai trò, phân quyền truy cập khác nhau (bác sĩ xem hồ sơ bệnh án, nhân viên lễ tân chỉ nhập thông tin)|
+| Phần cứng          | Cần đảm bảo tương thích phần cứng, hỗ trợ kết nối thiết bị y tế, hiệu năng cao khi xử lý dữ liệu lớn                                            |
+| Phần mềm           | Phải tương thích nền tảng (Windows/Linux), đảm bảo khả năng tích hợp với hệ thống y tế hiện có                                                  |
+| Quy trình nghiệp vụ| Hệ thống cần tùy chỉnh linh hoạt, hỗ trợ quy trình đa bước                                                                                      |
+| Hệ thống bên ngoài | Cần tích hợp API với hệ thống bảo hiểm, kết nối thanh toán điện tử, gửi báo cáo định kỳ cho cơ quan quản lý                                     |
+| Môi trường pháp lý | Hệ thống phải mã hóa dữ liệu, kiểm soát truy cập nghiêm ngặt, ghi nhật ký hoạt động, và lưu trữ hồ sơ đúng thời hạn theo quy định               |
+| Cơ sở hạ tầng mạng | Yêu cầu độ tin cậy cao, băng thông đủ lớn, hỗ trợ truy cập an toàn từ xa qua giao thức mã hóa                                                   |
+| Nhân sự kỹ thuật   | Hệ thống phải dễ triển khai, bảo trì và sao lưu, cung cấp giao diện quản trị thân thiện và tài liệu kỹ thuật rõ ràng                            |
+
